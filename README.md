@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, ik ben Tyrese 👋
 
-<!--
-**tyresetalia/tyresetalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gemotiveerde IT-professional in wording, gefocust op systeembeheer, netwerken en cloud.
+Ik leer door te doen — onderstaande labs tonen praktische skills die ik zelfstandig heb opgebouwd.
 
-Here are some ideas to get you started:
+## 🖥️ Projecten
+- 🔧 [IT Home Lab — Windows & Linux](link) — systeembeheer, netwerk, permissions, troubleshooting
+- ☁️ [Azure Cloud Lab](link) — VNet, NSG, RBAC, monitoring
+- 🌐 [Netwerk Lab (Packet Tracer)](link) — VLAN's, routing, ACL's, hardening
+- 🧪 [PowerShell Pester Testing](link) — geautomatiseerd testen van systeemconfiguraties
+- 📡 [API-data ophalen met PowerShell](link) — API's, JSON, data-verwerking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Windows Server · Linux (Ubuntu) · Active Directory · Azure · PowerShell · Bash ·
+Netwerken (VLAN/routing/ACL) · Security tooling (ClamAV, Rkhunter, Lynis) · Git
