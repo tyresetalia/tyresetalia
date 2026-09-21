@@ -4,7 +4,7 @@ Gemotiveerde IT-professional in wording, gefocust op systeembeheer, netwerken en
 
 ## 🖥️ Projecten
 
-- 🔧 [IT Home Lab — Windows & Linux](https://github.com/tyresetalia/it-homelab-windows-linux) — systeembeheer, netwerk, permissions, troubleshooting
+- 🔧 [IT Home Lab — Windows & Linux](https://github.com/tyresetalia/-it-homelab-windows-linux) — systeembeheer, netwerk, permissions, troubleshooting
 - ☁️ [Azure Cloud Lab](https://github.com/tyresetalia/azure-cloud-lab) — VNet, NSG, RBAC, monitoring
 - ☁️ [AWS Cloud Lab](https://github.com/tyresetalia/aws-cloud-lab) — EC2, Security Groups, IAM, CloudWatch
 - 🌐 [Netwerk Lab (Packet Tracer)](https://github.com/tyresetalia/network-lab-packet-tracer) — VLAN's, routing, ACL's, hardening
