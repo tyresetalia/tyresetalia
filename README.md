@@ -14,10 +14,11 @@ Ik zet AI bewust en doelgericht in als hulpmiddel tijdens mijn leerproces:
 ### 🖥️ Projecten
 🔧 [IT Home Lab — Windows & Linux](https://github.com/tyresetalia/-it-homelab-windows-linux) — systeembeheer, netwerk, permissions, troubleshooting  
 ☁️ [Azure Cloud Lab](https://github.com/tyresetalia/azure-cloud-lab) — VNet, NSG, RBAC, monitoring  
+☁️ [Azure Hub-and-Spoke Netwerk](https://github.com/tyresetalia/azure-hub-spoke-lab) — VNet Peering, Azure Bastion, Zero-Exposure, netwerkisolatie
 ☁️ [AWS Cloud Lab](https://github.com/tyresetalia/aws-cloud-lab) — EC2, Security Groups, IAM, CloudWatch  
 🌐 [Netwerk Lab (Packet Tracer)](https://github.com/tyresetalia/network-lab-packet-tracer) — VLAN's, routing, ACL's, hardening  
-🧪 [PowerShell Pester Testing](https://github.com/tyresetalia/LINK-NOG-INVULLEN) — geautomatiseerd testen van systeemconfiguraties  
-📡 [API-data ophalen met PowerShell](https://github.com/tyresetalia/LINK-NOG-INVULLEN) — API's, JSON, data-verwerking  
+🧪 [PowerShell Pester Testing](https://github.com/tyresetalia/LINK-NOG-INVULLEN) — geautomatiseerd testen van systeemconfiguraties  (nog in te vullen)
+📡 [API-data ophalen met PowerShell](https://github.com/tyresetalia/LINK-NOG-INVULLEN) — API's, JSON, data-verwerking  (nog in te vullen)
 
 ---
 
