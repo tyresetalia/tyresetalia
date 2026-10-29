@@ -47,6 +47,9 @@ Ik zet AI bewust en doelgericht in als hulpmiddel tijdens mijn leerproces:
 ### 🖧 Systeembeheer & OS Hardening (Windows & Linux)
 *Installatie, beheer, rechtenstructuren en monitoring van operating systems.*
 
+- 🔧 **[Enterprise EUC & IT Support Lab](https://github.com/tyresetalia/enterprise-euc-support-lab)**  
+  End-User Computing & Onsite Support: Windows 11 enterprise staging, Least Privilege (UAC & rechtenbeheer), Smart Hands netwerkdiagnostiek, geautomatiseerd print spooler herstel, PowerShell ITAM hardware-audits en ITIL incidentafhandeling (P1 t/m VIP support).
+
 - 🔧 **[IT Home Lab — Windows & Linux](https://github.com/tyresetalia/-it-homelab-windows-linux)**  
   Hybride systeembeheer: Windows Server Active Directory configuratie, groepsbeleid (GPO), Linux (Ubuntu) rechtenbeheer (`chmod`/`chown`), SSH-hardening, log-auditing en hands-on troubleshooting van systeemstoringen.
 
